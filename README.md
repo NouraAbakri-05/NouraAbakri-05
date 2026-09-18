@@ -22,9 +22,11 @@ My current interests include AI-powered embedded systems, assistive technologies
 
 ## 🚀 Featured Projects
 
-### 🌱 AquaSmart
-AI-powered smart irrigation system combining IoT sensor data and machine learning to predict irrigation needs and optimize water usage.
+### 🌱 [AquaSmart](https://github.com/NouraAbakri-05/AquaSmart-Agri)
 
+AI-powered smart irrigation system combining **IoT sensor simulation, Machine Learning, Flask, and data visualization** to predict irrigation needs and estimate water requirements.
+
+**Tech:** Python • Flask • Scikit-learn • Random Forest • SQLite • Chart.js
 ### 🛒 SuperMaroc
 Distributed supermarket management system built with Java RMI, Spring Boot, MySQL, and REST APIs.
 
