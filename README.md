@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Noura Abakri 👋
 
-<!--
-**NouraAbakri-05/NouraAbakri-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Master's Student in Computer Engineering & Embedded Systems
 
-Here are some ideas to get you started:
+I'm a Master's student at Ibn Zohr University in Agadir, Morocco, interested in building intelligent systems that combine **Embedded Systems, IoT, Artificial Intelligence, and Computer Vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include AI-powered embedded systems, assistive technologies, IoT, machine learning, and computer vision.
+
+## 🛠️ Technical Skills
+
+**Programming:** Python • C • C++ • Java • SQL • JavaScript • PHP
+
+**Embedded Systems & IoT:** ESP32 • Arduino • Microcontrollers • Sensors & Actuators
+
+**AI & Data:** Machine Learning • Scikit-learn • Pandas • NumPy
+
+**Image Processing:** MATLAB
+
+**Backend & Databases:** Flask • FastAPI • Spring Boot • MySQL • SQL Server • SQLite
+
+**Tools:** Git • GitHub • VS Code • Jupyter Notebook • Proteus
+
+## 🚀 Featured Projects
+
+### 🌱 AquaSmart
+AI-powered smart irrigation system combining IoT sensor data and machine learning to predict irrigation needs and optimize water usage.
+
+### 🛒 SuperMaroc
+Distributed supermarket management system built with Java RMI, Spring Boot, MySQL, and REST APIs.
+
+### 🔐 IoT Device Authentication Risk Analyzer
+Security analysis tool for detecting suspicious authentication activity and evaluating risks in IoT device logs.
+
+## 🎓 Certifications
+
+- Machine Learning with Python — freeCodeCamp
+- Elements of AI — University of Helsinki
+
+## 🔬 Current Interests
+
+- Embedded Systems
+- Internet of Things (IoT)
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Intelligent Assistive Technologies
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/noura-abakri-17a952277/)
