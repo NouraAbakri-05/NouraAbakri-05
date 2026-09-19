@@ -30,8 +30,11 @@ AI-powered smart irrigation system combining **IoT sensor simulation, Machine Le
 ### 🛒 SuperMaroc
 Distributed supermarket management system built with Java RMI, Spring Boot, MySQL, and REST APIs.
 
-### 🔐 IoT Device Authentication Risk Analyzer
-Security analysis tool for detecting suspicious authentication activity and evaluating risks in IoT device logs.
+### 🔐 [IoT Device Authentication Risk Analyzer](https://github.com/NouraAbakri-05/iot-authentication-risk-analyzer)
+
+IoT cybersecurity monitoring system using **FastAPI and Streamlit** to simulate authentication attacks, analyze security events, and classify potential risks using a rule-based scoring engine.
+
+**Tech:** Python • FastAPI • Streamlit • Pydantic • Pandas
 
 ## 🎓 Certifications
 
